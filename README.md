@@ -1,5 +1,7 @@
 # NetworkTest
 
+NOTE: work in progress, first working version to appear in few weeks.
+
 ## Introduction
 
 Structural properties and activation of the cerebral cortex are typically studied with reference to a brain atlas and previously found robust networks. In particular, many studies have first 
