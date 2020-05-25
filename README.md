@@ -1,4 +1,4 @@
-# networktest
+# NetworkTest
 
 Structural properties and activation of the cerebral cortex are typically studied with reference to a brain atlas and previously found robust networks. In particular, many studies have first 
 performed statistical testing over the regions of the used brain atlas, and then interpreted the statistically significant findings with respect to known brain networks. However, the status quo 
